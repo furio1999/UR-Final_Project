@@ -22,9 +22,8 @@ git pull
 ```
 
 ## Modeling
-- Lagrangian Formulation for 2D robot
+- Lagrangian Formulation for 2D quadruped robot
 - Developed from scratch
-- 
 ## Control
 - Model Predictive Controller
 - NN-boosted MPC control
