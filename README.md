@@ -18,6 +18,9 @@ git push -uf origin main
 git pull
 ```
 
+## Modeling
+- Matlab 
+
 ## Simulation
 
 
