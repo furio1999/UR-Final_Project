@@ -19,7 +19,11 @@ git pull
 ```
 
 ## Simulation
-animation_MPC_new2.mp4
+
+
+https://user-images.githubusercontent.com/63920397/162575745-fa89b125-d6ce-468a-9323-7e8ee53cdeb0.mp4
+
+
 
 ## Contributors
 - S
