@@ -19,7 +19,12 @@ git pull
 ```
 
 ## Modeling
-- Matlab 
+- Lagrangian Formulation for 2D robot
+- Developed from scratch
+- 
+## Control
+- Model Predictive Controller
+- NN-boosted MPC control
 
 ## Simulation
 
