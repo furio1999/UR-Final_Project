@@ -1,5 +1,8 @@
 # UR-Final_Project
 
+Project for [Underactuated Robots Course](http://www.diag.uniroma1.it/~oriolo/ur/) at Sapienza University of Rome
+<a href="https://www.dis.uniroma1.it/"><img src="http://www.dis.uniroma1.it/sites/default/files/marchio%20logo%20eng%20jpg.jpg" width="500"></a>
+
 ## Instructions
 ```
 # clone
@@ -34,6 +37,6 @@ https://user-images.githubusercontent.com/63920397/162575745-fa89b125-d6ce-468a-
 
 
 ## Contributors
-- S
-- M
-- Fulvio Sanguigni
+- **Borelli**
+- **De Pucchio**
+- **Fulvio Sanguigni**
