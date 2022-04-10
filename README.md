@@ -39,7 +39,7 @@ Main_warm.m
 ```
 ### Tracking
 ```
-Main_tracking.m
+Main_Tracking.m
 ```
 
 
@@ -53,7 +53,9 @@ Main_tracking.m
 - NN-boosted MPC control
 
 ## Simulation
-
+```
+Draw_robot.m
+```
 
 https://user-images.githubusercontent.com/63920397/162575745-fa89b125-d6ce-468a-9323-7e8ee53cdeb0.mp4
 
