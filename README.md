@@ -22,20 +22,34 @@ git pull
 ```
 
 ### Modeling
-run model_computation.m
+```
+Compute_Model.m
+```
 ### MPC
-run main_MPC.m
+```
+Main_MPC.m
+```
 ### Neural Network
-run main_NN.m
+```
+Neural_network.m
+```
 ### MPC warm-start
-run main_warm
+```
+Main_warm.m
+```
+### Tracking
+```
+Main_tracking.m
+```
 
 
 ## Modeling
 - Lagrangian Formulation for 2D quadruped robot
 - Developed from scratch
+
 ## Control
 - Model Predictive Controller
+- Training of Feedforward Neural Network to generate trajectories from initial state x(0)
 - NN-boosted MPC control
 
 ## Simulation
