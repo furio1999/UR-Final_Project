@@ -21,6 +21,16 @@ git push -uf origin main
 git pull
 ```
 
+### Modeling
+run model_computation.m
+### MPC
+run main_MPC.m
+### Neural Network
+run main_NN.m
+### MPC warm-start
+run main_warm
+
+
 ## Modeling
 - Lagrangian Formulation for 2D quadruped robot
 - Developed from scratch
