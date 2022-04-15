@@ -63,6 +63,6 @@ https://user-images.githubusercontent.com/63920397/162575745-fa89b125-d6ce-468a-
 
 
 ## Contributors
-- **Borelli** <a href="https://www.linkedin.com/in/saverioborrelli/"><img src="https://www.tecnomagazine.it/tech/wp-content/uploads/2013/05/linkedin-aggiungere-immagini.png" width="30"></a>
-- **De Pucchio** <a href="https://www.linkedin.com/in/monica-de-pucchio/"><img src="https://www.tecnomagazine.it/tech/wp-content/uploads/2013/05/linkedin-aggiungere-immagini.png" width="30"></a>
+- **Saverio Borrelli** <a href="https://www.linkedin.com/in/saverioborrelli/"><img src="https://www.tecnomagazine.it/tech/wp-content/uploads/2013/05/linkedin-aggiungere-immagini.png" width="30"></a>
+- **Monica De Pucchio** <a href="https://www.linkedin.com/in/monica-de-pucchio/"><img src="https://www.tecnomagazine.it/tech/wp-content/uploads/2013/05/linkedin-aggiungere-immagini.png" width="30"></a>
 - **Fulvio Sanguigni** <a href="https://www.linkedin.com/in/furio19/"><img src="https://www.tecnomagazine.it/tech/wp-content/uploads/2013/05/linkedin-aggiungere-immagini.png" width="30"></a>
